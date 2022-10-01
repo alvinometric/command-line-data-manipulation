@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Katie Ledecky",
+    "nationality": "USA",
+    "sex": "female",
+    "height": 1.83,
+    "weight": 72,
+    "sport": "aquatics",
+    "gold": 4,
+    "silver": 1,
+    "bronze": 0,
+    "medals": 5
+  },
+  {
+    "name": "Simone Biles",
+    "nationality": "USA",
+    "sex": "female",
+    "height": 1.45,
+    "weight": 47,
+    "sport": "gymnastics",
+    "gold": 4,
+    "silver": 0,
+    "bronze": 1,
+    "medals": 5
+  },
+  {
+    "name": "Emma McKeon",
+    "nationality": "AUS",
+    "sex": "female",
+    "height": 1.8,
+    "weight": 60,
+    "sport": "aquatics",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1,
+    "medals": 4
+  },
+  {
+    "name": "Katinka Hosszu",
+    "nationality": "HUN",
+    "sex": "female",
+    "height": 1.75,
+    "weight": 68,
+    "sport": "aquatics",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 0,
+    "medals": 4
+  }
+]
